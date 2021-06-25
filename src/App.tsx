@@ -43,7 +43,7 @@ function App() {
                         </Grid>
                         <Grid item xs={6} md={3}>
                             <Typography component={NavLink} exact={true} className={classes.itemLink}
-                                        activeClassName={classes.active} to="/" noWrap
+                                        activeClassName={classes.active} to="/omdb-api-peliculas" noWrap
                                         color="secondary"
                                         variant="h6">
                                 Movies

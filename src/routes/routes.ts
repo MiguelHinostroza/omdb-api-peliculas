@@ -7,7 +7,7 @@ export default [
     {
         component: HomePage,
         name: 'home',
-        path: '/',
+        path: '/omdb-api-peliculas',
         exact: true
     },
     {
